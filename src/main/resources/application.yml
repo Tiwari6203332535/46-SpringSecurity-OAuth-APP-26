@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: 44-SpringSecurity-OAuth-APP-26
+
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Ov23li9oZJ6XajQjbxXO        # Replace with your actual client ID
+            client-secret: da579dec004cc94a3f83cd128cd24c207980fa57 #
